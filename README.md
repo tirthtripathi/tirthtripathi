@@ -1,4 +1,4 @@
-![logo](Banner.png)]
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Tirth Tripathi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
